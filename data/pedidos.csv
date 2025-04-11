@@ -1,0 +1,81 @@
+pedido_id,cliente_id,data_pedido,status_entrega,data_entrega,canal_venda
+1,42,2025-03-12,Em trânsito,2025-03-20,App
+2,9,2024-10-06,Entregue,2024-10-12,Loja Física
+3,35,2024-06-19,Em trânsito,2024-06-29,Loja Física
+4,38,2024-04-29,Em trânsito,2024-05-07,Site
+5,9,2024-07-20,Cancelado,2024-07-25,Site
+6,49,2024-09-04,Entregue,2024-09-07,App
+7,41,2024-08-15,Entregue,2024-08-19,Loja Física
+8,39,2024-07-01,Entregue,2024-07-09,Site
+9,39,2024-10-03,Em trânsito,2024-10-11,Loja Física
+10,36,2024-08-14,Entregue,2024-08-20,Loja Física
+11,44,2024-08-19,Cancelado,2024-08-22,Site
+12,8,2025-01-30,Em trânsito,2025-02-06,Site
+13,30,2025-03-17,Entregue,2025-03-21,Loja Física
+14,33,2024-09-04,Entregue,2024-09-10,Loja Física
+15,41,2024-07-27,Em trânsito,2024-07-30,Loja Física
+16,39,2025-01-27,Entregue,2025-02-06,App
+17,49,2025-02-27,Entregue,2025-03-06,Loja Física
+18,1,2024-09-20,Cancelado,2024-09-30,Site
+19,2,2024-07-16,Entregue,2024-07-25,Site
+20,16,2025-02-28,Entregue,2025-03-06,App
+21,6,2024-05-11,Cancelado,2024-05-14,Site
+22,49,2024-10-09,Cancelado,2024-10-12,App
+23,43,2024-04-17,Em trânsito,2024-04-21,Loja Física
+24,17,2025-01-25,Cancelado,2025-01-29,Loja Física
+25,14,2024-11-05,Cancelado,2024-11-13,Loja Física
+26,46,2024-04-30,Em trânsito,2024-05-05,Site
+27,29,2024-08-23,Cancelado,2024-08-30,Site
+28,16,2024-07-06,Entregue,2024-07-09,App
+29,2,2024-12-18,Cancelado,2024-12-25,Loja Física
+30,38,2024-05-06,Entregue,2024-05-11,App
+31,46,2025-02-07,Cancelado,2025-02-10,App
+32,5,2024-12-19,Entregue,2024-12-24,Site
+33,33,2024-04-25,Entregue,2024-04-28,Site
+34,14,2025-01-27,Cancelado,2025-02-05,App
+35,16,2024-04-22,Em trânsito,2024-05-01,Site
+36,7,2024-07-15,Entregue,2024-07-20,Loja Física
+37,23,2024-06-26,Em trânsito,2024-07-04,Site
+38,47,2025-03-01,Entregue,2025-03-10,Loja Física
+39,4,2024-04-17,Em trânsito,2024-04-20,Loja Física
+40,7,2024-12-07,Entregue,2024-12-14,App
+41,35,2024-06-08,Em trânsito,2024-06-13,App
+42,12,2024-07-11,Em trânsito,2024-07-19,Site
+43,5,2024-05-29,Em trânsito,2024-06-03,Loja Física
+44,4,2024-10-10,Cancelado,2024-10-13,Loja Física
+45,6,2024-12-25,Entregue,2024-12-27,App
+46,32,2024-05-24,Em trânsito,2024-06-01,App
+47,4,2024-11-15,Entregue,2024-11-23,Site
+48,25,2024-07-03,Em trânsito,2024-07-05,Site
+49,28,2024-10-07,Cancelado,2024-10-13,Loja Física
+50,43,2025-01-06,Cancelado,2025-01-16,Site
+51,13,2024-07-18,Em trânsito,2024-07-22,App
+52,38,2025-02-01,Cancelado,2025-02-03,Loja Física
+53,48,2024-08-31,Em trânsito,2024-09-02,App
+54,38,2024-06-14,Em trânsito,2024-06-16,Loja Física
+55,11,2024-12-01,Entregue,2024-12-11,Loja Física
+56,12,2024-12-01,Entregue,2024-12-04,Loja Física
+57,44,2025-01-25,Entregue,2025-01-28,Site
+58,37,2025-01-13,Entregue,2025-01-16,Loja Física
+59,40,2024-05-24,Entregue,2024-05-26,Site
+60,21,2025-02-06,Em trânsito,2025-02-16,App
+61,16,2025-02-22,Em trânsito,2025-03-01,Site
+62,43,2024-06-12,Cancelado,2024-06-16,Site
+63,21,2024-08-08,Entregue,2024-08-17,App
+64,40,2024-05-21,Cancelado,2024-05-30,App
+65,35,2024-11-20,Entregue,2024-11-23,Loja Física
+66,9,2024-04-19,Em trânsito,2024-04-25,App
+67,24,2025-04-05,Em trânsito,2025-04-10,App
+68,35,2024-08-09,Cancelado,2024-08-18,Site
+69,1,2024-11-19,Cancelado,2024-11-29,Loja Física
+70,43,2024-12-29,Entregue,2025-01-04,App
+71,8,2025-03-28,Entregue,2025-04-03,Loja Física
+72,10,2024-09-02,Em trânsito,2024-09-12,Site
+73,46,2024-09-11,Em trânsito,2024-09-16,App
+74,33,2025-04-10,Em trânsito,2025-04-16,Site
+75,6,2025-01-12,Cancelado,2025-01-14,Site
+76,3,2024-06-26,Entregue,2024-07-02,Site
+77,41,2024-05-09,Em trânsito,2024-05-13,App
+78,36,2024-11-25,Cancelado,2024-12-04,Site
+79,1,2025-01-03,Entregue,2025-01-13,App
+80,35,2025-02-26,Entregue,2025-03-02,Site
