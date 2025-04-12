@@ -9,7 +9,7 @@ Cada análise foi executada individualmente através de arquivos `.sql`, com seu
 ## 📌 Índice
 
 1. [Volume de Pedidos por Mês](#1-volume-de-pedidos-por-mês)
-2. [Pagamento de preferência dos melhores clientes](#2-gasto-médio-por-tipo-de-pagamento)
+2. [Pagamento de preferência dos melhores clientes](#2-pagamento-de-preferência-dos-melhores-clientes)
 3. [Análise das Formas de Pagamento](#3-análise-das-formas-de-pagamento)
 4. [Ticket Médio por Tipo de Pagamento](#4-ticket-médio-por-tipo-de-pagamento)
 5. [Soma dos Pedidos por Categoria](#5-soma-dos-pedidos-por-categoria)
@@ -104,7 +104,7 @@ Já o Pix apresenta o menor tíquete médio (R$ 6.423,24), indicando um possíve
 
 ## Conclusões Gerais
 
-> O e-commerce tem vendas estáveis ao longo do ano, há quedas pontuais em setembro a novembro, e março se destaca como o pior mês. 
-> Cartão de crédito domina em volume e receita. Boleto lidera no tíquete médio, especialmente em transações acima de R$15.000. Pix é o menos expressivo em valor, mas relevante em praticidade.  
-> Por fim, os clientes mais recorrentes e com maior gasto oferecem oportunidades claras para ações de fidelização e campanhas segmentadas.
+> O e-commerce tem vendas estáveis ao longo do ano, há quedas pontuais em setembro a novembro, e março se destaca como o pior mês.   
+> Cartão de crédito domina em volume e receita. Boleto lidera no tíquete médio, especialmente em transações acima de R$15.000. Pix é o menos expressivo em valor, mas relevante em praticidade.    
+> Por fim, os clientes mais recorrentes e com maior gasto oferecem oportunidades claras para ações de fidelização e campanhas segmentadas.  
 
